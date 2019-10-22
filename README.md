@@ -1,3 +1,3 @@
 # Blinkenlights
 
-A description of this package.
+SwiftNIO basic channel example.
